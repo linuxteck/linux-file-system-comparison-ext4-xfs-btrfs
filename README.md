@@ -28,7 +28,7 @@ If you don’t want to overthink it:
 
 > Visual overview of filesystem architecture and behavior
 
-![Preview]([https://raw.githubusercontent.com/linuxteck/filesystem-comparison/main/filesystem-preview.png](https://github.com/linuxteck/linux-file-system-comparison-ext4-xfs-btrfs/blob/main/XFS.png))
+![Preview](https://github.com/linuxteck/linux-file-system-comparison-ext4-xfs-btrfs/blob/main/XFS.png)
 
 ---
 
